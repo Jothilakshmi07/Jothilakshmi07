@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e787ff&text=Jothilakshmi&reversal=true&fontColor=0a0a00&fontSize=65&fontAlign=47&animation=fadeIn&stroke=ecacfc&strokeWidth=2&descSize=15 Width=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e787ff&text=Jothilakshmi&reversal=true&fontColor=0a0a00&fontSize=65&fontAlign=47&animation=fadeIn&stroke=ecacfc&strokeWidth=2&descSize=15" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
